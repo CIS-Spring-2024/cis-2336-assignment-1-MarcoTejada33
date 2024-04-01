@@ -57,3 +57,14 @@ nav a:hover {
     padding: 20px;
     border-bottom: #a52834;
 }
+
+
+.info-section h2 {
+    transition: color 0.3s ease; 
+}
+
+.info-section h2:hover {
+    color: #a52834; 
+}
+
+
